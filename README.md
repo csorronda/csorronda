@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi, I’m Christine
 
-<!--
-**csorronda/csorronda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Data Science student  
+Data Analytics • Machine Learning • Data Engineering  
 
-Here are some ideas to get you started:
+I work on data-driven projects ranging from ETL pipelines and data warehouses 
+to machine learning models and interactive dashboards. 
+Most of my projects focus on applying theory to real-world datasets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Work
+
+### Data Warehouse & ETL Pipeline
+- End-to-end ETL using Python and PostgreSQL  
+- Star schema modeling for analytics  
+- Streamlit dashboard for sales insights  
+🔗 Repo: https://github.com/csorronda/data-warehouse  
+
+### Streamlit Dashboards
+- Interactive data visualization apps  
+- Deployed using Streamlit Cloud / Render  
+🔗 Repo: https://github.com/csorronda/streamlit-render  
+
+### Machine Learning & Notebooks
+- kNN, text classification (Bag-of-Words)  
+- Statistical modeling & analysis  
+🔗 Repo: https://github.com/csorronda/cloudrender  
+
+---
+
+## Tech Stack
+- **Languages:** Python, SQL, JavaScript  
+- **Data:** Pandas, NumPy, Scikit-learn, Statsmodels  
+- **Databases:** PostgreSQL, MongoDB  
+- **Visualization:** Streamlit, Matplotlib  
+- **Tools:** Git, GitHub, Jupyter Notebook  
