@@ -9,7 +9,7 @@ Most of my projects focus on applying theory to real-world datasets.
 
 ---
 
-## 🚀 Featured Work
+##  Featured Works
 
 ### Data Warehouse & ETL Pipeline
 - End-to-end ETL using Python and PostgreSQL  
